@@ -5,7 +5,7 @@ int calc(int, int);
 int main() {
     int Max=0;
     int Min=0;
-    cout<<"CALCULO DE MCM"<<endl;
+    cout<<"CALCULO DE MCD"<<endl;
 
     cout<<"Ingrese el Maximo "<<endl;
     cin>>Max;
